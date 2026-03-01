@@ -1,135 +1,125 @@
-<!-- Animated Professional Banner -->
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">👋 Hi, I'm Yash Borse</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Yash+Borse;Electronics+%26+Telecommunication+Engineer;AI+%7C+IoT+%7C+Full-Stack+Developer;Researcher+%7C+Innovator+%7C+Patent+Holder&center=true&width=1000&height=50" />
+🎓 Final Year ENTC Engineer (SPPU) <br>
+🤖 Embedded Systems & Robotics Enthusiast <br>
+🚁 Building Autonomous Surveillance & Assistive Systems <br>
+📍 Maharashtra, India
 </p>
 
-<h1 align="center">Yash Hemant Borse</h1>
+<hr>
 
-<p align="center">
-  🎓 Final Year Electronics & Telecommunication Engineering (SPPU) <br>
-  💡 AI Developer | IoT Innovator | Full-Stack Engineer <br>
-  🚀 Building Intelligent, Scalable & Real-World Impactful Systems
+<!-- ===================== ABOUT ===================== -->
+<h2>🚀 About Me</h2>
+
+<ul>
+  <li>🔭 Currently working on <b>Smart Reader for Blind People</b></li>
+  <li>🛵 Building <b>Smart Helmet Accident Detection System</b></li>
+  <li>🚁 Interested in <b>Autonomous Drones & Robotics</b></li>
+  <li>💡 Passionate about <b>Embedded Systems + Computer Vision</b></li>
+  <li>🎯 Goal: MS in Robotics & Automation (Germany 🇩🇪)</li>
+</ul>
+
+<hr>
+
+<!-- ===================== TECH STACK ===================== -->
+<h2>🛠️ Tech Stack</h2>
+
+<h3>👨‍💻 Programming Languages (Currently Learning)</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
----
+<h3>🤖 Embedded & Hardware</h3>
 
-## 🧠 About Me
-
-I am a final-year ENTC engineering student passionate about integrating **Electronics, Artificial Intelligence, and Scalable Software Systems**.
-
-My work focuses on building **energy-efficient embedded platforms, AI-driven accessibility solutions, and full-stack intelligent systems** that solve real-world problems.
-
-- 🔬 Research-oriented developer  
-- ⚙️ Strong hardware–software integration skills  
-- 🌍 Interested in Intelligent Transportation & Assistive Technologies  
-- 🎯 Goal: Design high-performance, impactful engineering systems  
-
----
-
-## 🛠️ Technical Expertise
-
-### 💻 Software & Full-Stack
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,tailwind,git,github,vscode)
-
-### 🤖 AI & Data Systems
-- Machine Learning Fundamentals  
-- OCR & NLP Applications  
-- Text-to-Speech Systems  
-- AI Automation & Analytics  
-- REST API Development  
-
-### 🔌 Electronics & Embedded Systems
-- Raspberry Pi 4  
-- MPU6050 (Accelerometer & Gyroscope)  
-- SIM808 (GSM/GPS)  
-- TP4056 Power Management Circuit  
-- IoT-based Safety Systems  
-- Sensor Fusion & Impact Detection  
-
----
-
-## 📄 Research Publication
-
-**Low-Power E-Safety System: Integrated Crash Detection with HUD and GSM/GPS Autonomy**  
-📘 *Journal of Technology* — Volume 13, Issue 11, 2025 (Pages 100–105)
-
-Developed an energy-optimized Smart Helmet system integrating:
-
-- Raspberry Pi 4 for central processing  
-- MPU6050 for high-precision crash detection  
-- SIM808 for GPS localization & GSM emergency alerts  
-- OLED HUD for rider assistance  
-- TP4056-based efficient power architecture  
-
-This research addresses delayed emergency response in motorcycle accidents through real-time automated communication.
-
----
-
-## 🏆 Achievements & Intellectual Property
-
-- 📄 **Published Research Paper (2025)** – Journal of Technology  
-  Smart Helmet Accident Detection & Emergency Alert System.
-
-- 🏅 **Design Patent Holder**  
-  *Portable Document Imaging Stand for Accessible Reading Devices*  
-  Innovation in assistive technology & accessibility hardware.
-
-- 📜 **Indian Copyright Registered – “READ 2 HEAR”**  
-  AI-powered accessible reading system.
-
-- 📜 **Canadian Copyright Registered – “READ 2 HEAR”**  
-  International intellectual property recognition.
-
-- 🌍 **IELTS Academic – Overall Band 6.5**  
-  Certified English proficiency for global academic & professional environments.
-
----
-
-## 🚀 Key Projects
-
-### 🧠 Smart Reader (READ 2 HEAR)
-AI-based OCR + Text-to-Speech system enabling accessible reading for visually impaired users.
-
-### 📊 StockPulse
-AI-powered inventory management system with forecasting, analytics, and automated PDF reports.
-
-### 🛡 Smart Helmet Safety System
-Embedded IoT system with crash detection, GPS tracking, GSM alerts, and HUD interface.
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight" />
+<p>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-00A8E8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MPU6050-FF6F00?style=for-the-badge" />
 </p>
 
----
+<h3>👁️ Computer Vision & AI</h3>
 
-## 📚 Research Interests
-
-- Intelligent Transportation Systems  
-- Energy-Efficient Embedded Architectures  
-- AI for Accessibility  
-- Edge Computing & IoT Systems  
-- Cybersecurity for Connected Devices  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tesseract-OCR-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
 </p>
 
----
+<h3>🌐 Tools & IDEs</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thonny-000000?style=for-the-badge" />
+</p>
+
+<h3>🔊 Speech & Automation</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/gTTS-34A853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pyttsx3-FF6F61?style=for-the-badge" />
+</p>
+
+<hr>
+
+<!-- ===================== PROJECTS ===================== -->
+<h2>📌 Featured Projects</h2>
+
+<h3>🔹 Smart Reader for Blind People</h3>
+<ul>
+  <li>📷 Image-to-text using OpenCV + Tesseract</li>
+  <li>🔊 Multilingual Text-to-Speech (English, Hindi, Marathi)</li>
+  <li>🧠 Automatic language detection</li>
+  <li>💻 Runs on Raspberry Pi</li>
+</ul>
+
+<h3>🔹 Smart Helmet Accident Detection</h3>
+<ul>
+  <li>🚨 Impact detection using MPU6050</li>
+  <li>📍 GPS location sharing</li>
+  <li>📡 Emergency alert system</li>
+  <li>🛵 Focused on rider safety</li>
+</ul>
+
+<h3>🔹 Autonomous Surveillance Drone (In Progress)</h3>
+<ul>
+  <li>🎯 Military base intrusion detection</li>
+  <li>👁️ Computer vision based monitoring</li>
+  <li>🤖 Fully autonomous navigation (planned)</li>
+</ul>
+
+<hr>
+
+<!-- ===================== GITHUB STATS ===================== -->
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  ⚡ Engineering Intelligent Systems That Make a Difference.
+  <img src="https://github-readme-stats.vercel.app/api?username=yashborse5029&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashborse5029&layout=compact&theme=tokyonight" />
+</p>
+
+<hr>
+
+<!-- ===================== CONNECT ===================== -->
+<h2>🌐 Connect With Me</h2>
+
+<p>
+📧 Email: <b>ADD_YOUR_EMAIL_HERE</b><br>
+💼 LinkedIn: <b>ADD_YOUR_LINKEDIN_HERE</b><br>
+🐙 GitHub: <a href="https://github.com/yashborse5029">yashborse5029</a>
+</p>
+
+<hr>
+
+<p align="center">
+⭐ <i>Building technology that solves real-world problems.</i>
 </p>
