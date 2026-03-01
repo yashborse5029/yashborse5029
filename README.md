@@ -14,7 +14,7 @@
 <h2>🚀 About Me</h2>
 
 <ul>
-  <li>🔭 Currently working on <b>Smart Reader for Blind People</b></li>
+  <li>🔭 <b>Smart Reader for Blind People</b></li>
   <li>🛵 Building <b>Smart Helmet Accident Detection System</b></li>
   <li>🚁 Interested in <b>Autonomous Drones & Robotics</b></li>
   <li>💡 Passionate about <b>Embedded Systems + Computer Vision</b></li>
@@ -87,12 +87,6 @@
   <li>🛵 Focused on rider safety</li>
 </ul>
 
-<h3>🔹 Autonomous Surveillance Drone (In Progress)</h3>
-<ul>
-  <li>🎯 Military base intrusion detection</li>
-  <li>👁️ Computer vision based monitoring</li>
-  <li>🤖 Fully autonomous navigation (planned)</li>
-</ul>
 
 <hr>
 
@@ -113,7 +107,7 @@
 <h2>🌐 Connect With Me</h2>
 
 <p>
-📧 Email: <b>ADD_YOUR_EMAIL_HERE</b><br>
+📧 Email: <b>borseyash123@gmail.com</b><br>
 💼 LinkedIn: <b>ADD_YOUR_LINKEDIN_HERE</b><br>
 🐙 GitHub: <a href="https://github.com/yashborse5029">yashborse5029</a>
 </p>
