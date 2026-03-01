@@ -1,6 +1,6 @@
 <!-- Animated Professional Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Mrunal+Awate;Electronics+%26+Telecommunication+Engineer;AI+%7C+IoT+%7C+Full-Stack+Developer;Researcher+%7C+Innovator+%7C+Patent+Holder&center=true&width=1000&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Yash+Borse;Electronics+%26+Telecommunication+Engineer;AI+%7C+IoT+%7C+Full-Stack+Developer;Researcher+%7C+Innovator+%7C+Patent+Holder&center=true&width=1000&height=50" />
 </p>
 
 <h1 align="center">Yash Hemant Borse</h1>
