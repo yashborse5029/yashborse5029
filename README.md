@@ -1,117 +1,192 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">👋 Hi, I'm Yash Borse</h1>
 
+<h3 align="center">
+Embedded Systems Engineer • Robotics Enthusiast • AI Researcher
+</h3>
+
 <p align="center">
-🎓 Final Year ENTC Engineer (SPPU) <br>
-🤖 Embedded Systems & Robotics Enthusiast <br>
-🚁 Building Autonomous Surveillance & Assistive Systems <br>
-📍 Maharashtra, India
+
+🎓 B.E. Electronics & Telecommunication Engineering (SPPU)
+
+💻 Embedded Systems • Raspberry Pi • ESP32 • IoT
+
+🤖 Artificial Intelligence • Computer Vision • Robotics
+
+📍 Nashik, Maharashtra, India
+
 </p>
 
-<hr>
+<p align="center">
 
-<!-- ===================== ABOUT ===================== -->
-<h2>🚀 About Me</h2>
+<i>
+Building intelligent embedded systems for a safer, smarter, and more connected future.
+</i>
 
-<ul>
-  <li>🔭 <b>Smart Reader for Blind People</b></li>
-  <li>🛵 Building <b>Smart Helmet Accident Detection System</b></li>
-  <li>🚁 Interested in <b>Autonomous Drones & Robotics</b></li>
-  <li>💡 Passionate about <b>Embedded Systems + Computer Vision</b></li>
-  <li>🎯 Goal: MS in Robotics & Automation (Germany 🇩🇪)</li>
-</ul>
+</p>
 
-<hr>
+---
+
+## 🚀 About Me
+
+- 🎓 B.E. Electronics & Telecommunication Engineering Graduate (SPPU)
+
+- 🤖 Passionate about Embedded Systems, Robotics, Artificial Intelligence, and IoT
+
+- 🔬 Research-focused engineer with experience in developing intelligent embedded systems using Raspberry Pi and ESP32
+
+- 📚 Author of 2 published research papers with 2 additional manuscripts under peer review
+
+- 🏆 Holder of Registered Industrial Design, Indian Copyright, and Canadian Copyright
+
+- 🎯 Aspiring Robotics Engineer pursuing M.S. in Robotics & Automation (Germany)
 
 <!-- ===================== TECH STACK ===================== -->
-<h2>🛠️ Tech Stack</h2>
+## ⚙️ Technical Expertise
 
-<h3>👨‍💻 Programming Languages (Currently Learning)</h3>
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
+| 💻 Programming | ⚡ Embedded | 🤖 AI | 🌐 IoT |
+|:--------------:|:-----------:|:-----:|:------:|
+| Python | Raspberry Pi | OpenCV | UART |
+| C | ESP32 | OCR | SPI |
+| C++ | Arduino | Computer Vision | I²C |
+| Embedded C | Linux | Speech Recognition | GPS |
+| | Sensor Integration | TTS | GSM |
 
-<h3>🤖 Embedded & Hardware</h3>
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-00A8E8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MPU6050-FF6F00?style=for-the-badge" />
-</p>
+---
 
-<h3>👁️ Computer Vision & AI</h3>
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tesseract-OCR-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-</p>
+### 🛠 Development Tools
 
-<h3>🌐 Tools & IDEs</h3>
+Git • GitHub • VS Code • Arduino IDE • Thonny • Linux
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thonny-000000?style=for-the-badge" />
-</p>
+</div>
 
-<h3>🔊 Speech & Automation</h3>
+---
 
-<p>
-  <img src="https://img.shields.io/badge/gTTS-34A853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/pyttsx3-FF6F61?style=for-the-badge" />
-</p>
+<div align="center">
 
-<hr>
+### 🔬 Areas of Interest
 
+Embedded Systems • Robotics • Artificial Intelligence • Computer Vision • IoT • Sensor Fusion
+
+</div>
 <!-- ===================== PROJECTS ===================== -->
-<h2>📌 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<h3>🔹 Smart Reader for Blind People</h3>
-<ul>
-  <li>📷 Image-to-text using OpenCV + Tesseract</li>
-  <li>🔊 Multilingual Text-to-Speech (English, Hindi, Marathi)</li>
-  <li>🧠 Automatic language detection</li>
-  <li>💻 Runs on Raspberry Pi</li>
-</ul>
+<table>
+<tr>
+<td width="33%" align="center">
 
-<h3>🔹 Smart Helmet Accident Detection</h3>
-<ul>
-  <li>🚨 Impact detection using MPU6050</li>
-  <li>📍 GPS location sharing</li>
-  <li>📡 Emergency alert system</li>
-  <li>🛵 Focused on rider safety</li>
-</ul>
+### 🤖 AI Smart Helmet
 
+AI-powered embedded safety system for real-time accident detection, emergency communication, and rider assistance.
+
+**Tech Stack**
+
+Python • Raspberry Pi • IoT • Embedded Linux
+
+🔗 **Repository:**  
+https://github.com/yashborse5029/Energy-Efficient-AI-Smart-Helmet
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌍 Live Emission Monitoring
+
+IoT-based air quality and vehicle emission monitoring system using ESP32 and MQ sensors.
+
+**Tech Stack**
+
+ESP32 • Embedded C • Arduino • IoT
+
+🔗 **Repository:**  
+https://github.com/yashborse5029/Live-Emission-Monitoring-System
+
+</td>
+
+<td width="33%" align="center">
+
+### 👁 Read2Hear
+
+AI-powered smart reader using OCR and Text-to-Speech for visually impaired users.
+
+**Tech Stack**
+
+Python • OpenCV • OCR • Raspberry Pi
+
+🔗 **Repository:**  
+https://github.com/yashborse5029/read2-hear
+
+</td>
+
+</tr>
+</table>
 
 <hr>
+
+## 📚 Research Publications
+
+### ✅ Published
+
+- **Energy-Efficient AI-Enabled Smart Helmet for Real-Time Accident Detection and Emergency Communication**
+
+- **Low-Power E-Safety System: Integrated Crash Detection with HUD and GSM/GPS Autonomy**
+
+### 📝 Under Peer Review
+
+- **Read2Hear – AI Smart Reader for Visually Impaired People**
+
+- **Live Emission Monitoring System using IoT**
+
+## 🏆 Intellectual Property
+
+- 🏅 Registered Industrial Design – Portable Document Imaging Stand for Accessible Reading Devices (Government of India)
+
+- © Indian Copyright – READ2HEAR Software Ecosystem
+
+- © Canadian Copyright – READ2HEAR Software Ecosystem
+
+- 🟡 Smart Helmet Intellectual Property Application – Under Process
+
+## 🚀 Currently Working On
+
+- 🤖 Embedded Systems & Robotics
+
+- 🐍 Advanced Python Programming
+
+- 👁 Computer Vision & AI
+
+- 🌍 IoT-based Intelligent Systems
+
+- 🇩🇪 Preparing for M.S. in Robotics & Automation (Germany)
 
 <!-- ===================== GITHUB STATS ===================== -->
-<h2>📊 GitHub Stats</h2>
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashborse5029&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=yashborse5029&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashborse5029&layout=compact&theme=tokyonight" />
-</p>
-
-<hr>
 
 <!-- ===================== CONNECT ===================== -->
-<h2>🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-borse-b17a8a303/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashborse5029)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borseyash123@gmail.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/yash-borse-b17a8a303
 
-<hr>
+- 🌍 **Portfolio:** https://portfolio-ten-beryl-8bpx1amasv.vercel.app
+
+- 📧 **Email:** borseyash123@gmail.com
+
+- 💻 **GitHub:** https://github.com/yashborse5029
+
+---
 
 <p align="center">
-⭐ <i>Building technology that solves real-world problems.</i>
+⭐ <b>Building intelligent embedded systems for a safer, smarter, and more connected future.</b>
+
 </p>
